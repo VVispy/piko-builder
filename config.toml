@@ -5,7 +5,7 @@ patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "Piko"
 
-# patches-version = "dev"
+patches-version = "dev"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
 # see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
@@ -14,5 +14,10 @@ rv-brand = "Piko"
 
 [Instagram]
 #uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-direct-dlurl = "https://wispy.qzz.io/f/mdSR/com.instagram.android-435.0.0.37.76-arm64-v8a.apk"
+direct-dlurl = "https://wispy.qzz.io/f/xEFj/com.instagram.android-439.0.0.37.89-arm64-v8a.apkm"
 arch = "arm64-v8a"
+
+[Twitter]
+# uptodown-dlurl = "https://twitter.en.uptodown.com/android"
+direct-dlurl = "https://wispy.qzz.io/f/AAu6/com.twitter.android-12.11.0-release.0-all.apkm"
+# arch = "arm64-v8a"
