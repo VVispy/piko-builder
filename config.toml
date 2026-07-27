@@ -12,12 +12,12 @@ rv-brand = "Piko"
 
 # you can use rvmm-config-gen to generate a config
 
-#[Instagram]
+[Instagram]
 #uptodown-dlurl = "https://instagram.en.uptodown.com/android"
-#direct-dlurl = "https://wispy.qzz.io/f/mdSR/com.instagram.android-435.0.0.37.76-arm64-v8a.apk"
+direct-dlurl = "https://wispy.qzz.io/f/mdSR/com.instagram.android-435.0.0.37.76-arm64-v8a.apk"
 #arch = "arm64-v8a"
 
-[Twitter]
+# [Twitter]
 # uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-direct-dlurl = "https://wispy.qzz.io/f/2lUn/com.twitter.android-12.7.0-release.0-all.apkm"
+# direct-dlurl = "https://wispy.qzz.io/f/2lUn/com.twitter.android-12.7.0-release.0-all.apkm"
 # arch = "arm64-v8a"
