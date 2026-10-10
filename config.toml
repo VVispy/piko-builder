@@ -1,5 +1,5 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module
-parallel-jobs = 1
+#parallel-jobs = 1
 
 patches-source = "crimera/piko"
 cli-source = "MorpheApp/morphe-desktop"
@@ -11,9 +11,9 @@ rv-brand = "Piko"
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
-direct-dlurl = "https://cloud.doley.qzz.io/f/jPU2/com.instagram.android-439.0.0.37.89-arm64-v8a.apkm"
+direct-dlurl = "https://cloud.doley.qzz.io/f/WMs7/com.instagram.android-447.0.0.55.81-arm64-v8a.apkm"
 arch = "arm64-v8a"
-version = "439.0.0.37.89"
+version = "447.0.0.55.81"
 
 [Twitter]
 direct-dlurl = "https://cloud.doley.qzz.io/f/k5H9/com.twitter.android-12.19.1-release.0-arm64-v8a.apkm"
