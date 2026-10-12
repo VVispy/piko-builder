@@ -16,6 +16,6 @@ included-patches = "'Disable analytics' 'View live anonymously' 'View stories an
 arch = "arm64-v8a"
 version = "447.0.0.55.81"
 
-#[Twitter]
-#direct-dlurl = "https://cloud.doley.qzz.io/f/k5H9/com.twitter.android-12.19.1-release.0-arm64-v8a.apkm"
-#arch = "arm64-v8a"
+[Twitter]
+direct-dlurl = "https://cloud.doley.qzz.io/f/k5H9/com.twitter.android-12.19.1-release.0-arm64-v8a.apkm"
+arch = "arm64-v8a"
