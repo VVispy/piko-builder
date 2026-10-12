@@ -1,5 +1,4 @@
 Instagram: 447.0.0.55.81  
-Twitter: 12.19.1-release.0  
 
 Install [Microg](https://github.com/MorpheApp/MicroG-RE/) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music modules from Play Store  
