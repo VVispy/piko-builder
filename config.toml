@@ -1,8 +1,7 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module
-#parallel-jobs = 1
+# parallel-jobs = 1
 
 patches-source = "crimera/piko"
-cli-source = "MorpheApp/morphe-desktop"
 rv-brand = "Piko"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
