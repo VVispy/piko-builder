@@ -1,7 +1,5 @@
 enable-module-update = true # set this to false if you do not want to receive updates for the module
 # parallel-jobs = 1
-
-patches-source = "crimera/piko"
 rv-brand = "Piko"
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
@@ -10,14 +8,15 @@ rv-brand = "Piko"
 # you can use rvmm-config-gen to generate a config
 
 [Instagram]
-direct-dlurl = "https://cloud.doley.qzz.io/f/WMs7/com.instagram.android-447.0.0.55.81-arm64-v8a.apkm"
+patches-source = "crimera/piko"
+direct-dlurl = "https://cloud.doley.qzz.io/f/DYcP/com.instagram.android-452.1.0.53.64-arm64-v8a.apkm"
 #included-patches = "'Disable analytics' 'View live anonymously' 'View stories anonymously' 'Make ephemeral media permanent' 'View DMs anonymously' 'Disable screenshot detection'"
 arch = "arm64-v8a"
-version = "447.0.0.55.81"
+version = "452.1.0.53.64"
 
 [Twitter]
 patches-source = "crimera/piko-newx"
+#direct-dlurl = "https://cloud.doley.qzz.io/f/7Au0/com.twitter.android-12.41.0-prod.01-arm64-v8a.apkm"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
-#included-patches = "'NewX: Restore Twitter branding'"
-#direct-dlurl = "https://cloud.doley.qzz.io/f/k5H9/com.twitter.android-12.19.1-release.0-arm64-v8a.apkm"
+version = "latest"
 arch = "arm64-v8a"
